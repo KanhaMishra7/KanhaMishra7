@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there! I'm an Aspiring Data Scientist 👋
 
-<!--
-**KanhaMishra7/KanhaMishra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently transitioning into the world of Data Science and Analytics. With a strong foundation in logic and quantitative aptitude, I am passionate about uncovering insights from data and building intelligent solutions.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Python Data Analysis Projects**
+- 🌱 I’m currently learning: **Machine Learning algorithms & Generative AI**
+- 👯 I’m looking to collaborate on: **Open source data science projects**
+- 💬 Ask me about: **Python, SQL, and Data Visualization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+* **Languages:** Python, SQL
+* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
+* **Tools:** Jupyter Notebooks, Git/GitHub, Excel
+
+---
+
+### 📫 Connect with me
+* [LinkedIn Profile](https://www.linkedin.com/in/krishna-kant-08752a369/)
