@@ -1,4 +1,4 @@
-### Hi there! I'm an Aspiring Data Scientist 👋
+### Hi there! I'm an "Data Scientist | Machine Learning Enthusiast | Problem Solver." 👋
 
 I am currently transitioning into the world of Data Science and Analytics. With a strong foundation in logic and quantitative aptitude, I am passionate about uncovering insights from data and building intelligent solutions.
 
