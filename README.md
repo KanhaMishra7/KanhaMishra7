@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+real+decisions;Python+%7C+SQL+%7C+Machine+Learning;Building+models+that+actually+matter)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-kant-08752a369)
-[![Profile Views](https://komarev.com/ghpvc/?username=krishna-kant&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/krishna-kant)
+[![Profile Views](https://komarev.com/ghpvc/?username=KanhaMishra7&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/KanhaMishra7)
 
 </div>
 
@@ -59,14 +59,14 @@ I'm a **Data Scientist** with a strong foundation in logic and quantitative anal
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishna-kant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kant&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanhaMishra7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaMishra7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishna-kant&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KanhaMishra7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -89,7 +89,7 @@ I'm a **Data Scientist** with a strong foundation in logic and quantitative anal
 ## 📈 Activity
 
 <!--START_SECTION:activity-->
-[![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna-kant&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Krishna's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanhaMishra7&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
 ---
