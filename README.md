@@ -102,7 +102,7 @@ krishna = {
     "working_on":         ["Advanced EDA pipelines", "SQL optimization frameworks"],
     "looking_to_build":   ["Automated ML pipelines", "Open-source data tools"],
     "ask_me_about":       ["Python", "Data Cleaning", "Statistical Analysis", "SQL"],
-    "goal_2025":          "Ship 5 impactful open-source data science projects"
+    "goal_2026":          "Ship 5 impactful open-source data science projects"
 }
 ```
 
