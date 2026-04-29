@@ -102,7 +102,7 @@ krishna = {
     "working_on":         ["Advanced EDA pipelines", "SQL optimization frameworks"],
     "looking_to_build":   ["Automated ML pipelines", "Open-source data tools"],
     "ask_me_about":       ["Python", "Data Cleaning", "Statistical Analysis", "SQL"],
-    "goal_2026":          "Ship 5 impactful open-source data science projects"
+    "goal_2025":          "Ship 5 impactful open-source data science projects"
 }
 ```
 
@@ -115,7 +115,7 @@ krishna = {
 I'm always open to interesting conversations, collaborations, and opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Kant-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-kant-08752a369)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:work.krishna1999@outlook.com)
 
 ---
 
